@@ -1,0 +1,148 @@
+%% Evaluate Sensor at 1g
+% Author: Aaron Allred
+clc;clear;
+
+% 1g stationary test
+name = "TorinsIMU_2021-01-08T10.05.06.730_C7116A831ED9";
+
+% import accelerometer data
+name_acc = convertStringsToChars(name+"_Accelerometer.csv");
+[Xg, Yg, Zg] = csvimport(name_acc, 'columns',...
+    {'x-axis (g)', 'y-axis (g)', 'z-axis (g)'});
+
+% import gyroscope data
+name_gyro = convertStringsToChars(name+"_Gyroscope.csv");
+[Xt, Yt, Zt] = csvimport(name_gyro, 'columns',...
+    {'x-axis (deg/s)', 'y-axis (deg/s)', 'z-axis (deg/s)'});
+
+%% Accelerometer Evaluation
+Truth = [0;0;1];
+freq = 100;
+tend = 10;
+bounds = [1 tend*freq];
+
+%EvaluateAccelerometer
+[New_g, ~, ~, bias_acc] = EvaluateSensor(Xg,Yg,Zg,Truth,bounds);
+Zg_new = New_g(3,:);
+plot(Zg_new-bias_acc(3))
+
+% Autocorrelation
+[acf,lags,~] = autocorr(Zg_new-bias_acc(3));  %autocorrelate the vector
+periodogram(acf)
+figure(2)
+plot(lags,acf)
+
+%% Gyroscope Evaluation
+Truth = [0;0;0];
+freq = 100;
+tend = 10;
+bounds = [1 tend*freq];
+
+%EvaluateGyro
+[New_t, angles, Cov_gyro, bias_gyro] = EvaluateGyro(Xt,Yt,Zt,Truth,bounds);
+
+Zt_new = New_t(3,:);
+Zmean = mean(Zt_new);
+plot(Zt_new-bias_gyro(3))
+
+% Autocorrelation
+[acf,lags,~] = autocorr(Zt_new-bias_gyro(3));  %autocorrelate the vector
+periodogram(acf)
+figure(2)
+plot(lags,acf)
+
+%% Kalman Filter
+
+H = eye(3);
+F = eye(3);
+G = eye(3);
+R = Cov_gyro;
+Q = diag([0.001 0.001 0.001])./100;
+Q = diag([0 0 0]); % no process noise
+
+% Match up Measurement Data
+Time = 100;
+delay = 1530;
+stop = 1052;
+dt = 1/100;
+yd = (New_t(:,delay:end)-bias_gyro);
+
+%load in commands
+% looks like the actual command is really about Hz 10.6113 hz
+[yaw] = csvimport('thresholds_0.5Hz_gap6s_100trials_20193281550_1.csv',...
+    'columns', {'yaw'});
+cmd = yaw(1:stop)*6; % convert to deg/s from rpm
+time1 = linspace(1,length(cmd),length(cmd));
+time2 = linspace(1,length(cmd),length(yd));
+u3 = interp1(time1,cmd,time2)*-1;
+ucmd = [zeros(1,length(u3));zeros(1,length(u3));u3];
+
+u = (ucmd(:,2:end)-ucmd(:,1:end-1));
+u(:,length(u3)) = zeros(3,1);
+
+% initial conditions
+x = [0;0;0];
+P = eye(3)*100;
+
+% Run Kalman Filter
+x_est = zeros(3,length(u3));
+P_est = zeros(3,length(u3));
+inn = zeros(3,length(u3));
+for i = 1:length(u3)
+    % Prediction Step
+    x = F*x+G*u(:,i); %x-  
+    P = F*P*F'+Q; %P-
+    K = P*H'/(H*P*H'+R);
+
+    % Update with Kalman Filter
+    P = (eye(3)-K*H)*P; %P+
+    x = x+K*(yd(:,i) - H*x); %x+
+
+    x_est(:,i) = x;
+    P_est(:,i) = diag(P);
+    inn(:,i) = yd(:,i)-H*x;
+end
+
+T = linspace(1,length(u3),length(u3));
+
+%% Plot Estimate against Command
+sig2 = 2*P_est(3,:).^(1/2);
+
+dz_est = (x_est(3,2:end)-x_est(3,1:end-1))/(1/freq);
+ddz_est = (dz_est(1,2:end)-dz_est(1,1:end-1))/(1/freq);
+
+Ac = (x_est(3,:)).^2*24*0.0254/9.81*(2*pi/180)^2;
+At = zeros(1,length(Ac));
+At(1,2:end) = dz_est*24*0.0254/9.81*(2*pi/180);
+
+a = vecnorm([Ac' At'],2,2);
+
+figure(3)
+plot(T,x_est(3,:),'r',T,x_est(3,:)+sig2,'b',...
+     T,x_est(3,:)-sig2,'b',T,u3,'--k',T,yd(3,:),'y');
+
+%% 24 inches off axis
+name = "TorinsIMU_2021-01-16T09.03.57.696_C7116A831ED9";
+
+% import accelerometer data
+name_acc = convertStringsToChars(name+"_Accelerometer.csv");
+[Xg2, Yg2, Zg2] = csvimport(name_acc, 'columns',...
+    {'x-axis (g)', 'y-axis (g)', 'z-axis (g)'});
+
+[New_g2, angles_acc, Cov_acc, bias_acc2] = EvaluateSensor(Xg,Yg,Zg,Truth,bounds);
+Xg2r = New_g2(1,:)' - bias_acc2(1);
+Yg2r = New_g2(2,:)' - bias_acc2(2);
+Zg2r = New_g2(3,:)' - bias_acc2(3);
+
+%% 45.5 inches off axis
+name = "TorinsIMU_2021-01-16T09.13.16.922_C7116A831ED9";
+
+% import accelerometer data
+name_acc = convertStringsToChars(name+"_Accelerometer.csv");
+[Xg3, Yg3, Zg3] = csvimport(name_acc, 'columns',...
+    {'x-axis (g)', 'y-axis (g)', 'z-axis (g)'});
+
+% import gyroscope data
+name_gyro = convertStringsToChars(name+"_Gyroscope.csv");
+[Xt3, Yt3, Zt3] = csvimport(name_gyro, 'columns',...
+    {'x-axis (deg/s)', 'y-axis (deg/s)', 'z-axis (deg/s)'});

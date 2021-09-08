@@ -1,0 +1,732 @@
+Login log 
+
+Login date: 4/6/2021 4:03:26 PM
+Time: 0
+Angular Velocity(0.00083689, 0.00113526, 0.00093516)
+Chair Rotation: -1.00000000
+Time: 0.02
+Angular Velocity(0.00083689, 0.00113526, 0.00093516)
+Chair Rotation: -1.00000000
+Time: 0.3533334
+Angular Velocity(0.00083689, 0.00113526, 0.00093516)
+Chair Rotation: 0.00000000
+Time: 0.4522804
+Angular Velocity(-0.00090287, 0.00122441, -0.00040557)
+Chair Rotation: 0.00000000
+Time: 0.5115607
+Angular Velocity(-0.00134073, -0.00137143, -0.00121844)
+Chair Rotation: 0.00000000
+Time: 0.5448663
+Angular Velocity(0.00367482, 0.00085193, -0.00018721)
+Chair Rotation: 0.00000000
+Time: 0.5792875
+Angular Velocity(0.00056948, 0.00087306, 0.00079571)
+Chair Rotation: 0.00000000
+Time: 0.6207407
+Angular Velocity(0.00125089, -0.00502949, 0.00262182)
+Chair Rotation: 0.00000000
+Time: 0.6574866
+Angular Velocity(0.00092720, -0.00026592, -0.00078059)
+Chair Rotation: 302.00000000
+Time: 0.6902782
+Angular Velocity(-0.00068910, 0.00239782, -0.00264323)
+Chair Rotation: 302.00000000
+Time: 0.7245339
+Angular Velocity(0.00232827, -0.00165296, 0.00064656)
+Chair Rotation: 302.00000000
+Time: 0.7581893
+Angular Velocity(-0.00112825, 0.00156742, -0.00281757)
+Chair Rotation: 302.00000000
+Time: 0.7928103
+Angular Velocity(0.00063517, -0.00271594, -0.00355522)
+Chair Rotation: 302.00000000
+Time: 0.8256137
+Angular Velocity(0.00242534, 0.00200219, 0.00125970)
+Chair Rotation: 302.00000000
+Time: 0.8641344
+Angular Velocity(0.00295291, 0.00089703, -0.00015021)
+Chair Rotation: 302.00000000
+Time: 0.898307
+Angular Velocity(0.00000845, -0.00133102, 0.00183542)
+Chair Rotation: 302.00000000
+Time: 0.9331396
+Angular Velocity(0.00389474, -0.00113555, -0.00062668)
+Chair Rotation: 302.00000000
+Time: 0.9686657
+Angular Velocity(0.00162265, 0.00249661, 0.00088816)
+Chair Rotation: 302.00000000
+Time: 1.00244
+Angular Velocity(0.00108939, -0.00082966, -0.00360960)
+Chair Rotation: 302.00000000
+Time: 1.037796
+Angular Velocity(0.00261427, 0.00300800, 0.00086213)
+Chair Rotation: 302.00000000
+Time: 1.105625
+Angular Velocity(0.00228157, 0.00056169, 0.00079788)
+Chair Rotation: 302.00000000
+Time: 1.145682
+Angular Velocity(0.00207202, -0.00324058, 0.00081961)
+Chair Rotation: 302.00000000
+Time: 1.180784
+Angular Velocity(-0.00027754, 0.00147827, -0.00036794)
+Chair Rotation: 302.00000000
+Time: 1.216602
+Angular Velocity(-0.00198949, -0.00171806, 0.00105586)
+Chair Rotation: 302.00000000
+Time: 1.251538
+Angular Velocity(0.00290978, 0.00140780, -0.00022031)
+Chair Rotation: 302.00000000
+Time: 1.286334
+Angular Velocity(-0.00038573, -0.00016394, -0.00179986)
+Chair Rotation: 302.00000000
+Time: 1.321437
+Angular Velocity(-0.00218429, 0.00131989, -0.00147200)
+Chair Rotation: 302.00000000
+Time: 1.358841
+Angular Velocity(0.00218477, 0.00021970, 0.00050720)
+Chair Rotation: 302.00000000
+Time: 1.393362
+Angular Velocity(0.00070190, 0.00179702, -0.00132868)
+Chair Rotation: 302.00000000
+Time: 1.427863
+Angular Velocity(-0.00081238, 0.00240306, 0.00008850)
+Chair Rotation: 302.00000000
+Time: 1.462097
+Angular Velocity(0.00189621, 0.00102306, -0.00367271)
+Chair Rotation: 302.00000000
+Time: 1.498483
+Angular Velocity(-0.00191678, 0.00003757, -0.00513345)
+Chair Rotation: 302.00000000
+Time: 1.532511
+Angular Velocity(-0.00086567, -0.00554544, -0.00029265)
+Chair Rotation: 302.00000000
+Time: 1.56615
+Angular Velocity(-0.00232922, -0.00005253, 0.00250567)
+Chair Rotation: 302.00000000
+Time: 1.603793
+Angular Velocity(0.00172602, 0.00069257, 0.00279754)
+Chair Rotation: 302.00000000
+Time: 1.638837
+Angular Velocity(0.00205744, 0.00227915, -0.00007255)
+Chair Rotation: 302.00000000
+Time: 1.672821
+Angular Velocity(-0.00300952, -0.00405200, -0.00128673)
+Chair Rotation: 302.00000000
+Time: 1.712569
+Angular Velocity(0.00024688, 0.00237936, -0.00392381)
+Chair Rotation: 302.00000000
+Time: 1.758208
+Angular Velocity(-0.00048005, 0.00088706, 0.00341758)
+Chair Rotation: 302.00000000
+Time: 1.801335
+Angular Velocity(-0.00431593, 0.00081231, -0.00168874)
+Chair Rotation: 302.00000000
+Time: 1.847036
+Angular Velocity(-0.00306917, 0.00140811, -0.00118888)
+Chair Rotation: 302.00000000
+Time: 1.891382
+Angular Velocity(-0.00326408, -0.00145934, 0.00346545)
+Chair Rotation: 302.00000000
+Time: 1.935405
+Angular Velocity(0.00120341, -0.00334624, 0.00012505)
+Chair Rotation: 302.00000000
+Time: 1.979417
+Angular Velocity(-0.00309897, -0.00307431, 0.00081850)
+Chair Rotation: 302.00000000
+Time: 2.024743
+Angular Velocity(0.00036326, -0.00136276, 0.00042923)
+Chair Rotation: 302.00000000
+Time: 2.071282
+Angular Velocity(-0.00214793, 0.00023957, 0.00259854)
+Chair Rotation: 302.00000000
+Time: 2.119348
+Angular Velocity(-0.00212345, -0.00002197, 0.00129177)
+Chair Rotation: 302.00000000
+Time: 2.165564
+Angular Velocity(-0.00073759, -0.00095999, 0.00364727)
+Chair Rotation: 302.00000000
+Time: 2.211605
+Angular Velocity(0.00047180, 0.00080025, 0.00177252)
+Chair Rotation: 302.00000000
+Time: 2.256958
+Angular Velocity(0.00132319, -0.00066417, 0.00002500)
+Chair Rotation: 302.00000000
+Time: 2.301149
+Angular Velocity(-0.00236083, 0.00129560, -0.00163203)
+Chair Rotation: 302.00000000
+Time: 2.348912
+Angular Velocity(0.00056177, -0.00226073, -0.00398821)
+Chair Rotation: 302.00000000
+Time: 2.394028
+Angular Velocity(0.00329500, -0.00114085, -0.00070798)
+Chair Rotation: 302.00000000
+Time: 2.439322
+Angular Velocity(-0.00116623, -0.00089628, -0.00152671)
+Chair Rotation: 302.00000000
+Time: 2.482255
+Angular Velocity(0.00072672, 0.00389454, 0.00097413)
+Chair Rotation: 302.00000000
+Time: 2.5264
+Angular Velocity(-0.00108089, 0.00029377, 0.00174173)
+Chair Rotation: 302.00000000
+Time: 2.57112
+Angular Velocity(-0.00171396, -0.00030734, 0.00003313)
+Chair Rotation: 302.00000000
+Time: 2.615143
+Angular Velocity(0.04616122, -0.00242510, -0.03432963)
+Chair Rotation: 302.00000000
+Time: 2.660533
+Angular Velocity(-0.22589930, -0.00992834, -0.36764790)
+Chair Rotation: 302.00000000
+Time: 2.707872
+Angular Velocity(-1.20553800, -0.11827200, -0.58189420)
+Chair Rotation: 302.00000000
+Time: 2.755116
+Angular Velocity(-1.53466900, -0.10999860, -0.65023750)
+Chair Rotation: 302.00000000
+Time: 2.802108
+Angular Velocity(-0.97980410, 0.08552533, -0.32815100)
+Chair Rotation: 302.00000000
+Time: 2.844422
+Angular Velocity(-1.31151600, -0.25268240, -1.40226900)
+Chair Rotation: 302.00000000
+Time: 2.889755
+Angular Velocity(-2.12673500, -0.27526160, -1.32118600)
+Chair Rotation: 302.00000000
+Time: 2.937289
+Angular Velocity(-1.53761800, 0.05009532, -0.55708120)
+Chair Rotation: 302.00000000
+Time: 2.983364
+Angular Velocity(-0.24738710, -0.00752570, 0.44814760)
+Chair Rotation: 302.00000000
+Time: 3.029747
+Angular Velocity(-0.08607947, 0.02689148, 0.43762780)
+Chair Rotation: 302.00000000
+Time: 3.075076
+Angular Velocity(1.11145900, 0.23076500, 0.41467920)
+Chair Rotation: 302.00000000
+Time: 3.120462
+Angular Velocity(0.56003330, -0.40021390, 0.26914120)
+Chair Rotation: 302.00000000
+Time: 3.164511
+Angular Velocity(-0.54317120, -0.39910260, -0.26232520)
+Chair Rotation: 302.00000000
+Time: 3.20246
+Angular Velocity(-1.70507200, -0.16123320, -1.35013100)
+Chair Rotation: 302.00000000
+Time: 3.238843
+Angular Velocity(-1.41226000, 0.67973790, -1.47152300)
+Chair Rotation: 302.00000000
+Time: 3.27581
+Angular Velocity(-1.56013900, 0.76274050, -1.37151000)
+Chair Rotation: 302.00000000
+Time: 3.311346
+Angular Velocity(-1.70836200, 1.09564000, -1.49600200)
+Chair Rotation: 302.00000000
+Time: 3.348057
+Angular Velocity(-1.85243600, 1.16625000, -1.52731700)
+Chair Rotation: 302.00000000
+Time: 3.38334
+Angular Velocity(-1.72203100, 1.03593000, -1.45434800)
+Chair Rotation: 302.00000000
+Time: 3.421464
+Angular Velocity(-1.24706100, 0.93432890, -1.45859500)
+Chair Rotation: 302.00000000
+Time: 3.463749
+Angular Velocity(-0.67670240, 0.65092130, -1.30622300)
+Chair Rotation: 302.00000000
+Time: 3.499246
+Angular Velocity(1.31725300, -0.20136480, -0.75525580)
+Chair Rotation: 302.00000000
+Time: 3.537688
+Angular Velocity(2.23010500, -0.45174060, -1.18962000)
+Chair Rotation: 302.00000000
+Time: 3.573243
+Angular Velocity(3.11001300, -1.23934600, -0.40597580)
+Chair Rotation: 302.00000000
+Time: 3.612044
+Angular Velocity(4.32127100, -1.92503500, 0.47158770)
+Chair Rotation: 302.00000000
+Time: 3.649376
+Angular Velocity(4.82367800, -2.87467000, -0.21894230)
+Chair Rotation: 302.00000000
+Time: 3.683833
+Angular Velocity(4.58088900, -2.75250700, -1.27393800)
+Chair Rotation: 302.00000000
+Time: 3.719524
+Angular Velocity(4.37841000, -2.58414200, -1.32115600)
+Chair Rotation: 302.00000000
+Time: 3.753736
+Angular Velocity(3.81347400, -3.19753100, -0.69842700)
+Chair Rotation: 302.00000000
+Time: 3.795809
+Angular Velocity(2.77062200, -3.40771000, 0.15614780)
+Chair Rotation: 302.00000000
+Time: 3.839595
+Angular Velocity(0.28685590, -1.61631000, 0.71357730)
+Chair Rotation: 302.00000000
+Time: 3.875617
+Angular Velocity(-0.86375340, -0.34776010, 0.64063220)
+Chair Rotation: 302.00000000
+Time: 3.912464
+Angular Velocity(-1.44961000, 0.26096460, 0.80642530)
+Chair Rotation: 302.00000000
+Time: 3.948397
+Angular Velocity(-1.59331600, 0.24951460, 1.44179600)
+Chair Rotation: 302.00000000
+Time: 3.985501
+Angular Velocity(-1.72171900, 0.24610330, 1.73465900)
+Chair Rotation: 302.00000000
+Time: 4.021155
+Angular Velocity(-2.33599500, 0.45887280, 1.27457200)
+Chair Rotation: 302.00000000
+Time: 4.060295
+Angular Velocity(-3.44150300, 0.77234490, 0.24481150)
+Chair Rotation: 302.00000000
+Time: 4.099157
+Angular Velocity(-4.41320500, 0.76625230, -0.53713610)
+Chair Rotation: 302.00000000
+Time: 4.135873
+Angular Velocity(-5.41279900, 0.34327200, -1.27602000)
+Chair Rotation: 302.00000000
+Time: 4.173271
+Angular Velocity(-5.36669800, -0.17348550, -1.57596700)
+Chair Rotation: 302.00000000
+Time: 4.210564
+Angular Velocity(-4.97248800, -1.01592500, -1.79090300)
+Chair Rotation: 302.00000000
+Time: 4.245186
+Angular Velocity(-4.18551600, -1.44589000, -1.77766800)
+Chair Rotation: 302.00000000
+Time: 4.282479
+Angular Velocity(-2.90138000, -1.59289700, -1.13022000)
+Chair Rotation: 302.00000000
+Time: 4.319235
+Angular Velocity(-1.76568000, -1.61992200, -0.06121949)
+Chair Rotation: 302.00000000
+Time: 4.356929
+Angular Velocity(-0.89545430, -1.50349400, 0.57429270)
+Chair Rotation: 302.00000000
+Time: 4.396346
+Angular Velocity(-0.40281370, -1.36248900, 0.82878370)
+Chair Rotation: 302.00000000
+Time: 4.439343
+Angular Velocity(-0.14281570, -1.20063600, 0.90295960)
+Chair Rotation: 302.00000000
+Time: 4.475773
+Angular Velocity(0.34375970, -1.15282500, 0.74324770)
+Chair Rotation: 302.00000000
+Time: 4.511794
+Angular Velocity(0.26439600, -1.41000600, 0.20871990)
+Chair Rotation: 302.00000000
+Time: 4.547775
+Angular Velocity(0.54019040, -1.23319000, 0.00259658)
+Chair Rotation: 302.00000000
+Time: 4.586573
+Angular Velocity(0.88008530, -0.76345900, -0.00773505)
+Chair Rotation: 302.00000000
+Time: 4.623217
+Angular Velocity(1.24294900, -0.41813820, -0.44227060)
+Chair Rotation: 302.00000000
+Time: 4.666261
+Angular Velocity(1.72754500, -0.10627690, -0.34980720)
+Chair Rotation: 302.00000000
+Time: 4.704707
+Angular Velocity(2.88694900, 0.69536440, 1.88855000)
+Chair Rotation: 302.00000000
+Time: 4.744152
+Angular Velocity(2.84158800, 0.75683210, 1.82626900)
+Chair Rotation: 302.00000000
+Time: 4.779778
+Angular Velocity(2.61934000, 0.98860260, 1.45754000)
+Chair Rotation: 302.00000000
+Time: 4.816589
+Angular Velocity(2.01937100, 1.29959000, 1.65291300)
+Chair Rotation: 302.00000000
+Time: 4.854815
+Angular Velocity(1.27221500, 1.41283000, 1.67625400)
+Chair Rotation: 302.00000000
+Time: 4.892013
+Angular Velocity(0.55206050, 1.66294000, 1.14734700)
+Chair Rotation: 302.00000000
+Time: 4.930285
+Angular Velocity(-0.15106780, 1.65838900, 0.55899630)
+Chair Rotation: 302.00000000
+Time: 4.96924
+Angular Velocity(-0.77321730, 1.61943900, 0.48807010)
+Chair Rotation: 302.00000000
+Time: 5.009768
+Angular Velocity(-1.46466800, 1.29386500, -0.00899772)
+Chair Rotation: 302.00000000
+Time: 5.047089
+Angular Velocity(-1.37689400, 1.16579700, 0.10761060)
+Chair Rotation: 302.00000000
+Time: 5.086758
+Angular Velocity(-1.15644300, 1.15241900, 0.40068670)
+Chair Rotation: 302.00000000
+Time: 5.125344
+Angular Velocity(-0.91524410, 1.18753700, 0.55733670)
+Chair Rotation: 302.00000000
+Time: 5.170278
+Angular Velocity(-0.51627890, 1.24956000, 0.82496890)
+Chair Rotation: 302.00000000
+Time: 5.208161
+Angular Velocity(0.29180200, 1.12123400, 1.24807700)
+Chair Rotation: 302.00000000
+Time: 5.245417
+Angular Velocity(0.68846890, 1.08429400, 1.25667000)
+Chair Rotation: 302.00000000
+Time: 5.284456
+Angular Velocity(0.98371010, 0.87448070, 1.18486700)
+Chair Rotation: 302.00000000
+Time: 5.324668
+Angular Velocity(1.41701300, 0.71009060, 1.14507200)
+Chair Rotation: 302.00000000
+Time: 5.362582
+Angular Velocity(1.86617600, 0.72239770, 0.68088000)
+Chair Rotation: 302.00000000
+Time: 5.400185
+Angular Velocity(2.36871200, 0.53286830, 0.69085950)
+Chair Rotation: 302.00000000
+Time: 5.443473
+Angular Velocity(2.52805600, 0.47571600, 0.52346800)
+Chair Rotation: 302.00000000
+Time: 5.48333
+Angular Velocity(2.60756100, 0.30029650, 0.52435240)
+Chair Rotation: 302.00000000
+Time: 5.523664
+Angular Velocity(2.22546400, 0.25704660, 0.20733610)
+Chair Rotation: 302.00000000
+Time: 5.563972
+Angular Velocity(2.07137500, 0.17769920, 0.34019270)
+Chair Rotation: 302.00000000
+Time: 5.603228
+Angular Velocity(1.72620400, 0.07249959, 0.29765610)
+Chair Rotation: 302.00000000
+Time: 5.641073
+Angular Velocity(1.22597700, 0.07872286, 0.18561220)
+Chair Rotation: 302.00000000
+Time: 5.680546
+Angular Velocity(0.79674310, -0.06647220, 0.10303130)
+Chair Rotation: 302.00000000
+Time: 5.719636
+Angular Velocity(0.93947170, -0.07188347, 0.09500570)
+Chair Rotation: 302.00000000
+Time: 5.759727
+Angular Velocity(1.30286500, -0.05509903, 0.13889570)
+Chair Rotation: 302.00000000
+Time: 5.798254
+Angular Velocity(1.34754900, -0.02051180, 0.16498600)
+Chair Rotation: 302.00000000
+Time: 5.839141
+Angular Velocity(1.42108000, -0.04531581, 0.20114870)
+Chair Rotation: 302.00000000
+Time: 5.879897
+Angular Velocity(1.46069400, -0.12219900, 0.06278247)
+Chair Rotation: 302.00000000
+Time: 5.918908
+Angular Velocity(1.73108600, -0.18418950, -0.01901051)
+Chair Rotation: 302.00000000
+Time: 5.959171
+Angular Velocity(1.88022700, -0.31400990, 0.07457364)
+Chair Rotation: 302.00000000
+Time: 5.996791
+Angular Velocity(2.09867200, -0.51717100, 0.15514790)
+Chair Rotation: 302.00000000
+Time: 6.035209
+Angular Velocity(2.24998300, -0.53638340, 0.27828800)
+Chair Rotation: 302.00000000
+Time: 6.075847
+Angular Velocity(2.30848900, -0.61000590, 0.30802690)
+Chair Rotation: 302.00000000
+Time: 6.113543
+Angular Velocity(1.86229200, -0.39973840, 0.23358820)
+Chair Rotation: 302.00000000
+Time: 6.152028
+Angular Velocity(1.74211100, -0.56917040, 0.34946310)
+Chair Rotation: 302.00000000
+Time: 6.191575
+Angular Velocity(1.47404600, -0.57191840, 0.32420830)
+Chair Rotation: 302.00000000
+Time: 6.232604
+Angular Velocity(1.05997000, -0.52568080, 0.29669390)
+Chair Rotation: 302.00000000
+Time: 6.275774
+Angular Velocity(0.84799160, -0.55388650, 0.44678740)
+Chair Rotation: 302.00000000
+Time: 6.314333
+Angular Velocity(0.01919268, -0.22534880, -0.27190700)
+Chair Rotation: 302.00000000
+Time: 6.352264
+Angular Velocity(0.00423844, -0.31780990, -0.22589950)
+Chair Rotation: 302.00000000
+Time: 6.391852
+Angular Velocity(0.01966936, -0.20549350, -0.43047740)
+Chair Rotation: 302.00000000
+Time: 6.430409
+Angular Velocity(-0.39604960, 0.05247137, -0.85729530)
+Chair Rotation: 302.00000000
+Time: 6.466926
+Angular Velocity(-0.52687450, 0.27776120, -1.09790300)
+Chair Rotation: 302.00000000
+Time: 6.504111
+Angular Velocity(-0.55719480, 0.53568460, -1.00671300)
+Chair Rotation: 302.00000000
+Time: 6.54037
+Angular Velocity(-0.19310690, 0.64303640, -0.78954770)
+Chair Rotation: 302.00000000
+Time: 6.579675
+Angular Velocity(-0.09362925, 0.80031430, -0.71853380)
+Chair Rotation: 302.00000000
+Time: 6.617319
+Angular Velocity(-0.11273600, 0.66862550, -0.61571500)
+Chair Rotation: 302.00000000
+Time: 6.653122
+Angular Velocity(-0.54338130, 0.80276120, -0.82600300)
+Chair Rotation: 302.00000000
+Time: 6.691148
+Angular Velocity(-1.06060800, 0.91841670, -1.02992000)
+Chair Rotation: 302.00000000
+Time: 6.727345
+Angular Velocity(-0.98999920, 0.80661680, -0.77793900)
+Chair Rotation: 302.00000000
+Time: 6.764354
+Angular Velocity(-0.79317660, 0.67767630, -0.51164500)
+Chair Rotation: 302.00000000
+Time: 6.801119
+Angular Velocity(-0.74528450, 0.55049630, -0.44376770)
+Chair Rotation: 302.00000000
+Time: 6.837387
+Angular Velocity(-0.47376950, 0.28993870, -0.28055690)
+Chair Rotation: 302.00000000
+Time: 6.873273
+Angular Velocity(-0.18182400, 0.05638203, -0.02493845)
+Chair Rotation: 302.00000000
+Time: 6.909848
+Angular Velocity(0.03553523, -0.05861823, 0.14915550)
+Chair Rotation: 302.00000000
+Time: 6.946578
+Angular Velocity(0.27799860, -0.07359450, 0.26710670)
+Chair Rotation: 302.00000000
+Time: 6.983903
+Angular Velocity(0.31144520, -0.11220450, 0.52229820)
+Chair Rotation: 302.00000000
+Time: 7.019748
+Angular Velocity(-0.16810850, -0.12255310, 0.46462240)
+Chair Rotation: 302.00000000
+Time: 7.055463
+Angular Velocity(-0.69443860, -0.06548597, 0.36119020)
+Chair Rotation: 302.00000000
+Time: 7.09162
+Angular Velocity(-1.19254300, 0.07816123, 0.26479770)
+Chair Rotation: 302.00000000
+Time: 7.129252
+Angular Velocity(-1.88744700, 0.21652560, 0.28354470)
+Chair Rotation: 302.00000000
+Time: 7.173339
+Angular Velocity(-2.37384700, 0.18776500, 0.08252569)
+Chair Rotation: 302.00000000
+Time: 7.211319
+Angular Velocity(-2.75285700, 0.27172720, -0.01437357)
+Chair Rotation: 302.00000000
+Time: 7.24918
+Angular Velocity(-3.10738800, 0.44799990, -0.23031230)
+Chair Rotation: 302.00000000
+Time: 7.285612
+Angular Velocity(-4.21376300, 0.73988280, -0.91317360)
+Chair Rotation: 302.00000000
+Time: 7.32304
+Angular Velocity(-4.72798800, 0.71758220, -1.26665300)
+Chair Rotation: 302.00000000
+Time: 7.359387
+Angular Velocity(-4.75688300, 0.22966710, -1.47118800)
+Chair Rotation: 302.00000000
+Time: 7.395161
+Angular Velocity(-4.59349000, -0.38106610, -1.55380700)
+Chair Rotation: 302.00000000
+Time: 7.431662
+Angular Velocity(-4.21818900, -0.44783760, -1.59680100)
+Chair Rotation: 302.00000000
+Time: 7.470413
+Angular Velocity(-3.68649800, -0.40318760, -1.60287800)
+Chair Rotation: 302.00000000
+Time: 7.50987
+Angular Velocity(-3.44967100, -0.26623630, -1.64596300)
+Chair Rotation: 302.00000000
+Time: 7.547308
+Angular Velocity(-3.17780800, -0.06566441, -1.41124200)
+Chair Rotation: 302.00000000
+Time: 7.587419
+Angular Velocity(-2.56209800, 0.05065407, -0.76978810)
+Chair Rotation: 302.00000000
+Time: 7.624402
+Angular Velocity(-0.95188830, 0.17803790, -0.24710520)
+Chair Rotation: 302.00000000
+Time: 7.672211
+Angular Velocity(-0.43224240, 0.10155060, -0.27308180)
+Chair Rotation: 302.00000000
+Time: 7.713746
+Angular Velocity(-0.11439800, 0.06065960, -0.31574900)
+Chair Rotation: 302.00000000
+Time: 7.753216
+Angular Velocity(0.51902440, -0.12194520, -0.77380650)
+Chair Rotation: 302.00000000
+Time: 7.789729
+Angular Velocity(0.46542880, -0.24337950, -0.92960760)
+Chair Rotation: 302.00000000
+Time: 7.825833
+Angular Velocity(0.44772730, -0.25102430, -1.32711600)
+Chair Rotation: 302.00000000
+Time: 7.865352
+Angular Velocity(0.38468470, -0.14256810, -1.41840000)
+Chair Rotation: 302.00000000
+Time: 7.902282
+Angular Velocity(0.28686310, 0.01703340, -1.45656300)
+Chair Rotation: 302.00000000
+Time: 7.941089
+Angular Velocity(0.16609890, 0.22634170, -1.52977300)
+Chair Rotation: 302.00000000
+Time: 7.977622
+Angular Velocity(0.15658700, 0.58937590, -1.52286300)
+Chair Rotation: 302.00000000
+Time: 8.014268
+Angular Velocity(-0.12787950, 0.76404650, -1.57013600)
+Chair Rotation: 302.00000000
+Time: 8.059241
+Angular Velocity(-0.25329040, 0.97104990, -1.04839300)
+Chair Rotation: 302.00000000
+Time: 8.096521
+Angular Velocity(-0.34032220, 0.96255710, -0.65963460)
+Chair Rotation: 302.00000000
+Time: 8.132779
+Angular Velocity(-0.37824700, 0.93215030, -0.49800470)
+Chair Rotation: 302.00000000
+Time: 8.169114
+Angular Velocity(-0.36497030, 0.76599220, -0.53833480)
+Chair Rotation: 302.00000000
+Time: 8.207082
+Angular Velocity(-0.08177096, 0.75571860, -0.63740730)
+Chair Rotation: 302.00000000
+Time: 8.250091
+Angular Velocity(0.19025850, 0.78662410, -0.41225390)
+Chair Rotation: 302.00000000
+Time: 8.28915
+Angular Velocity(0.44775160, 0.77645650, -0.41932910)
+Chair Rotation: 302.00000000
+Time: 8.325391
+Angular Velocity(1.04605600, 0.56568400, -0.61246290)
+Chair Rotation: 302.00000000
+Time: 8.363914
+Angular Velocity(-1.00979000, 0.01892513, 1.55468400)
+Chair Rotation: 302.00000000
+Time: 8.407384
+Angular Velocity(-1.33596300, 0.54117550, 0.35258450)
+Chair Rotation: 302.00000000
+Time: 8.444435
+Angular Velocity(-1.00614200, 0.02275913, 0.54316280)
+Chair Rotation: 302.00000000
+Time: 8.48224
+Angular Velocity(-0.64636900, -0.58713730, 1.07446100)
+Chair Rotation: 302.00000000
+Time: 8.519157
+Angular Velocity(-0.47692250, -0.57128850, 1.46017000)
+Chair Rotation: 302.00000000
+Time: 8.556569
+Angular Velocity(-0.36171590, -0.47380950, 1.76910300)
+Chair Rotation: 302.00000000
+Time: 8.595743
+Angular Velocity(-0.49378600, 0.05854155, 0.57127390)
+Chair Rotation: 302.00000000
+Time: 8.634494
+Angular Velocity(-0.43348130, -0.13089780, -0.27491120)
+Chair Rotation: 302.00000000
+Time: 8.673617
+Angular Velocity(0.14798800, -0.16542350, -0.34004850)
+Chair Rotation: 302.00000000
+Time: 8.711509
+Angular Velocity(0.93858710, -0.18174100, -0.07082365)
+Chair Rotation: 302.00000000
+Time: 8.751826
+Angular Velocity(1.57495700, 0.08000086, 0.28940790)
+Chair Rotation: 302.00000000
+Time: 8.790719
+Angular Velocity(1.93105200, -0.00062387, 0.57712910)
+Chair Rotation: 302.00000000
+Time: 8.829812
+Angular Velocity(2.11956300, 0.01825486, 0.90685580)
+Chair Rotation: 302.00000000
+Time: 8.868376
+Angular Velocity(2.20526300, 0.00736949, 0.88504450)
+Chair Rotation: 302.00000000
+Time: 8.909033
+Angular Velocity(2.25211600, -0.02136875, 0.86714110)
+Chair Rotation: 302.00000000
+Time: 8.945821
+Angular Velocity(2.36015900, 0.05488864, 0.88781320)
+Chair Rotation: 302.00000000
+Time: 8.985491
+Angular Velocity(2.47927000, 0.06252237, 0.95967480)
+Chair Rotation: 302.00000000
+Time: 9.024786
+Angular Velocity(2.57718300, 0.05653815, 1.03811900)
+Chair Rotation: 302.00000000
+Time: 9.065744
+Angular Velocity(2.91017900, -0.00406980, 1.11040800)
+Chair Rotation: 302.00000000
+Time: 9.1053
+Angular Velocity(3.04964400, -0.02311615, 1.08688300)
+Chair Rotation: 302.00000000
+Time: 9.153425
+Angular Velocity(3.11464800, -0.06374069, 1.02051500)
+Chair Rotation: 302.00000000
+Time: 9.190368
+Angular Velocity(2.80653600, -0.07570414, 0.89978220)
+Chair Rotation: 302.00000000
+Time: 9.230029
+Angular Velocity(1.21872600, -0.07697973, 0.23533020)
+Chair Rotation: 302.00000000
+Time: 9.268812
+Angular Velocity(0.36486280, -0.05509968, -0.05339796)
+Chair Rotation: 302.00000000
+Time: 9.308913
+Angular Velocity(-0.26991670, -0.01680089, -0.19503430)
+Chair Rotation: 302.00000000
+Time: 9.364114
+Angular Velocity(-0.68097470, -0.03099346, -0.20520070)
+Chair Rotation: 302.00000000
+Time: 9.405847
+Angular Velocity(-1.03155300, -0.02732230, -0.08376279)
+Chair Rotation: 302.00000000
+Time: 9.445378
+Angular Velocity(-1.19431700, -0.03181142, -0.17148820)
+Chair Rotation: 302.00000000
+Time: 9.48471
+Angular Velocity(-1.28647400, -0.04468556, -0.31307160)
+Chair Rotation: 302.00000000
+Time: 9.530459
+Angular Velocity(-1.19565600, -0.07256991, -0.40981990)
+Chair Rotation: 302.00000000
+Time: 9.568591
+Angular Velocity(-0.70804250, -0.08192887, -0.38442190)
+Chair Rotation: 302.00000000
+Time: 9.606677
+Angular Velocity(-0.34211750, -0.06752080, -0.16816290)
+Chair Rotation: 302.00000000
+Time: 9.646179
+Angular Velocity(0.06562826, -0.00333643, 0.08619250)
+Chair Rotation: 302.00000000
+Time: 9.683691
+Angular Velocity(0.43292420, 0.01256485, 0.24396320)
+Chair Rotation: 302.00000000
+Time: 9.726186
+Angular Velocity(0.67399130, 0.01293200, 0.27819660)
+Chair Rotation: 302.00000000
+Time: 9.766073
+Angular Velocity(0.80088610, 0.00565570, 0.28018100)
+Chair Rotation: 302.00000000
+Time: 9.812346
+Angular Velocity(0.76935080, -0.00788881, 0.25037550)
+Chair Rotation: 302.00000000
+Time: 9.862529
+Angular Velocity(0.56670390, -0.01237089, 0.16481040)
+Chair Rotation: 302.00000000

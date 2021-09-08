@@ -1,0 +1,698 @@
+Login log 
+
+Login date: 7/21/2021 8:54:13 AM
+Time: 0
+Angular Velocity(0.00120842, 0.00050349, 0.00375975)
+Chair Rotation: -1.00000000
+Lights: 1.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.02
+Angular Velocity(0.00120842, 0.00050349, 0.00375975)
+Chair Rotation: -1.00000000
+Lights: 1.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.04
+Angular Velocity(0.00120842, 0.00050349, 0.00375975)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.06
+Angular Velocity(0.00020962, 0.00163622, -0.00019807)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.08
+Angular Velocity(-0.00249788, 0.00141873, -0.00151950)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.0998961
+Angular Velocity(-0.00223097, 0.00259900, -0.00053836)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.1156258
+Angular Velocity(0.00267243, 0.00236822, -0.00084239)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.1356258
+Angular Velocity(-0.00441507, 0.00117774, 0.00147628)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.1555763
+Angular Velocity(-0.00130828, 0.00018900, -0.00174310)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.1740506
+Angular Velocity(0.00196603, -0.00128728, -0.00031624)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.1896057
+Angular Velocity(0.00093792, 0.00093183, 0.00149804)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.2039593
+Angular Velocity(0.00124057, -0.00103525, 0.00110711)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.2239593
+Angular Velocity(-0.00087611, -0.00038845, 0.00038280)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.2439593
+Angular Velocity(-0.00227783, -0.00122119, -0.00084972)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.2639593
+Angular Velocity(0.00123990, -0.00151053, 0.00155113)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.2839593
+Angular Velocity(0.00203524, 0.00125525, 0.00053440)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.3039593
+Angular Velocity(-0.00008433, -0.00028245, -0.00243075)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.3239593
+Angular Velocity(0.00106494, -0.00142483, 0.00002615)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.3439593
+Angular Velocity(-0.00008782, -0.00344687, 0.00023631)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.362036
+Angular Velocity(-0.00365386, -0.00192993, 0.00097671)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.382036
+Angular Velocity(-0.00024249, 0.00457258, -0.00046130)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.4000285
+Angular Velocity(0.00131922, -0.00154486, -0.00073999)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.4199764
+Angular Velocity(0.00083452, 0.00102586, 0.00209754)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.433875
+Angular Velocity(0.00262558, -0.00036404, 0.00103232)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.453875
+Angular Velocity(0.00002424, 0.00086507, -0.00389573)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.4676559
+Angular Velocity(0.00172532, -0.00246180, -0.00126870)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.4876559
+Angular Velocity(-0.00100838, 0.00105903, 0.00102985)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.5076559
+Angular Velocity(0.00095532, 0.00085598, -0.00114255)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.5259752
+Angular Velocity(0.00024491, -0.00229951, -0.00104637)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.5459752
+Angular Velocity(-0.00016317, 0.00001475, -0.00010698)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.5601719
+Angular Velocity(-0.00362218, -0.00039066, -0.00166193)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.5801719
+Angular Velocity(-0.00166254, 0.00087918, 0.00326599)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.5940938
+Angular Velocity(-0.00437806, -0.00136890, 0.00066524)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.6123525
+Angular Velocity(-0.00030211, -0.00128301, -0.00204471)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.629206
+Angular Velocity(-0.00067429, 0.00219651, 0.00373984)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.6435891
+Angular Velocity(0.00102091, 0.00177097, 0.00373785)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.6607522
+Angular Velocity(0.00052728, -0.00260893, 0.00087022)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.677806
+Angular Velocity(0.00306893, 0.00210026, -0.00252741)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.6951863
+Angular Velocity(-0.00106615, -0.00016570, -0.00012717)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.7089378
+Angular Velocity(-0.00102123, -0.00003547, -0.00111029)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.7289378
+Angular Velocity(0.00197596, -0.00026643, -0.00285648)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.7489378
+Angular Velocity(0.00192364, -0.00136483, -0.00099944)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.7689378
+Angular Velocity(-0.00175523, 0.00045435, -0.00009773)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.7889378
+Angular Velocity(0.00172508, -0.00021710, -0.00071088)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.8089378
+Angular Velocity(0.00076769, 0.00020434, 0.00187063)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.8289378
+Angular Velocity(0.00329347, 0.00370369, -0.00063554)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.8489378
+Angular Velocity(-0.00032379, 0.00270814, 0.00154366)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.8689378
+Angular Velocity(0.00027802, -0.00091512, -0.00098439)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.8889378
+Angular Velocity(0.00123920, 0.00228544, -0.00054481)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.9089378
+Angular Velocity(-0.00046917, -0.00130409, -0.00045474)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.9289378
+Angular Velocity(0.00115694, -0.00011962, 0.00357972)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.9489378
+Angular Velocity(-0.00087507, -0.00211771, -0.00298222)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.9689378
+Angular Velocity(-0.00070616, 0.00079779, 0.00298370)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 0.9889378
+Angular Velocity(0.00014346, 0.00313659, -0.00124504)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.008938
+Angular Velocity(0.00115656, -0.00088810, -0.00034697)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.028938
+Angular Velocity(-0.00098978, 0.00128328, 0.00031046)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.048938
+Angular Velocity(0.00061175, 0.00038579, -0.00135661)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.068938
+Angular Velocity(-0.00019319, -0.00151283, 0.00012117)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.088938
+Angular Velocity(-0.00122337, 0.00201801, 0.00370004)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.108938
+Angular Velocity(0.00370182, -0.00266601, 0.00026606)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.123687
+Angular Velocity(0.00233976, -0.00183983, -0.00059315)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.142665
+Angular Velocity(-0.00211705, -0.00120287, -0.00308510)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.159088
+Angular Velocity(-0.00230639, -0.00361649, -0.00105968)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.177521
+Angular Velocity(0.00120945, -0.00197286, -0.00041860)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.194104
+Angular Velocity(0.00156662, -0.00152322, -0.00091480)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.210447
+Angular Velocity(0.00190199, -0.00127378, 0.00130790)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.224447
+Angular Velocity(-0.00197695, 0.00054983, -0.00198801)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.241352
+Angular Velocity(-0.00209161, -0.00238639, -0.00182898)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.254744
+Angular Velocity(0.00303236, -0.00364698, 0.00465892)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.272682
+Angular Velocity(0.00164616, -0.00139877, -0.00191156)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.287353
+Angular Velocity(0.00051037, -0.00224373, -0.00088842)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.30221
+Angular Velocity(-0.00183917, -0.00168721, -0.00042021)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.319638
+Angular Velocity(-0.00001567, -0.00176492, 0.00027195)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.332668
+Angular Velocity(0.00003295, -0.00026354, -0.00068060)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.351481
+Angular Velocity(-0.00074141, -0.00013101, -0.00230711)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.365569
+Angular Velocity(0.00028935, -0.00257902, 0.00031250)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.379075
+Angular Velocity(0.00114712, -0.00188417, 0.00623409)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.397539
+Angular Velocity(-0.00508633, -0.00114771, -0.00099275)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.412017
+Angular Velocity(0.00143340, -0.00076595, 0.00050968)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.429776
+Angular Velocity(-0.00163361, 0.00184427, -0.00030349)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.443999
+Angular Velocity(-0.00481354, -0.00246478, -0.00049229)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.460694
+Angular Velocity(-0.00168768, 0.00197777, 0.00064514)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.475421
+Angular Velocity(0.00052622, 0.00064213, -0.00182478)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.489646
+Angular Velocity(-0.00036133, -0.00119151, -0.00416282)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.509098
+Angular Velocity(0.00184484, 0.00059656, 0.00085984)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.523511
+Angular Velocity(0.00021875, 0.00089062, -0.00007725)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.540172
+Angular Velocity(0.00056640, 0.00137594, -0.00228702)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.560172
+Angular Velocity(-0.00004562, -0.00003039, 0.00294386)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.574453
+Angular Velocity(-0.00221717, 0.00087891, 0.00009010)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.593772
+Angular Velocity(-0.00111218, 0.00132703, -0.00185639)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.613772
+Angular Velocity(0.00060175, -0.00128443, -0.00411039)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.633772
+Angular Velocity(-0.00226377, -0.00224514, 0.00100890)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.653772
+Angular Velocity(0.00009008, 0.00043046, 0.00055673)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.673772
+Angular Velocity(0.00301696, -0.00318373, -0.00021562)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.693772
+Angular Velocity(-0.00022561, 0.00174651, 0.00006297)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.713772
+Angular Velocity(0.00079238, -0.00187111, -0.00215892)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.733023
+Angular Velocity(-0.00134679, -0.00049137, 0.00067984)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.753023
+Angular Velocity(-0.00059722, -0.00008653, 0.00014991)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.773023
+Angular Velocity(0.00017378, 0.00236667, 0.00088871)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.793023
+Angular Velocity(0.00035491, 0.00046216, -0.00332378)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.813023
+Angular Velocity(-0.00272159, -0.00277048, 0.00075120)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.833023
+Angular Velocity(0.00119473, -0.00042508, 0.00087320)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.853023
+Angular Velocity(0.00067279, -0.00133286, -0.00239538)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.873023
+Angular Velocity(-0.00227762, 0.00073645, 0.00106541)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.893023
+Angular Velocity(0.00270478, 0.00226342, -0.00021440)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.913023
+Angular Velocity(-0.00276163, -0.00038436, -0.00179173)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.933023
+Angular Velocity(0.00322787, 0.00008798, -0.00004213)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.953023
+Angular Velocity(-0.00165807, -0.00130016, 0.00026247)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.973023
+Angular Velocity(-0.00243236, 0.00224108, -0.00003368)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 1.987414
+Angular Velocity(0.00070244, 0.00186892, -0.00063585)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.002804
+Angular Velocity(-0.00082061, 0.00136493, 0.00270878)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.020721
+Angular Velocity(-0.00083676, -0.00134361, 0.00052813)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.03812
+Angular Velocity(-0.00174211, -0.00082366, -0.00227160)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.05475
+Angular Velocity(-0.00318214, 0.00182721, 0.00050436)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.07475
+Angular Velocity(-0.00041342, 0.00180855, -0.00180663)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.090979
+Angular Velocity(0.00169541, -0.00136553, -0.00193908)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.110443
+Angular Velocity(0.00176121, 0.00251777, 0.00104470)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.12987
+Angular Velocity(0.00006507, 0.00080792, 0.00110264)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.144729
+Angular Velocity(0.00002111, 0.00151518, 0.00026840)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.161631
+Angular Velocity(0.00080012, -0.00284963, -0.00163814)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.176035
+Angular Velocity(-0.00123104, -0.00178431, 0.00101878)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.193984
+Angular Velocity(-0.00108667, 0.00093007, 0.00125685)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.207388
+Angular Velocity(-0.00141374, -0.00258259, 0.00304261)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.221819
+Angular Velocity(0.00061666, 0.00239020, 0.00121958)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.240494
+Angular Velocity(0.00015284, -0.00181079, -0.00033270)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.258475
+Angular Velocity(-0.00131253, -0.00104523, 0.00248440)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.274419
+Angular Velocity(-0.00362683, -0.00061244, 0.00201283)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.288829
+Angular Velocity(-0.00182470, -0.00103043, 0.00007014)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.305969
+Angular Velocity(-0.00150213, 0.00173516, -0.00125359)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.322374
+Angular Velocity(-0.00341725, 0.00036644, 0.00128448)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.336048
+Angular Velocity(-0.00144830, 0.00146464, 0.00087487)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.352213
+Angular Velocity(0.00372044, 0.00208417, -0.00110938)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.364753
+Angular Velocity(0.00297700, 0.00282003, -0.00012814)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.382079
+Angular Velocity(0.00007474, -0.00110586, 0.00284984)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.39689
+Angular Velocity(0.00064455, 0.00012892, 0.00031972)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.411679
+Angular Velocity(0.00122017, -0.00293220, 0.00000558)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.430186
+Angular Velocity(0.00319562, -0.00133904, -0.00085435)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.449872
+Angular Velocity(-0.00073867, 0.00019672, -0.00007313)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
+Time: 2.469872
+Angular Velocity(-0.00151084, -0.00033587, 0.00144905)
+Chair Rotation: 328.00000000
+Lights: 0.00000000
+Eyes: l) [-1, -1]; r) [-1, -1]; f) 
